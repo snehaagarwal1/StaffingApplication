@@ -15,7 +15,7 @@ node_modules/
 # production
 
 /build
-
+/client
 # misc
 
 config.env
