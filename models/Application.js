@@ -22,7 +22,7 @@ const applicationSchema = new mongoose.Schema(
       type: String,
       enum: {
         values: ["Pending", "Rejected", "Accepted"],
-        message: "Select application status: Pending, Rejected, or Accepted.",
+        message: "Select application status: Pending, Rejected, or Accepted. ",
       },
     },
   },
