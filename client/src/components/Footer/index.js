@@ -44,7 +44,7 @@ const Footer = () => {
           </Box>
         </Box>
         <Typography variant="p" className={classes.copyright}>
-          &#169; 2022 Joblookup. All rights reserved.
+          &#169; 2023 StafingApplication. All rights reserved.
         </Typography>
       </Box>
     </div>

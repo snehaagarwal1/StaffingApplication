@@ -51,7 +51,7 @@ const About = () => {
             />
             <Typography variant="caption">Email</Typography>
             <Typography variant="subtitle2">
-              <Link href="mailto:info@joblookup.com">info@joblookup.com</Link>
+              <Link href="mailto:info@staffingapplication.com">info@staffingapplication.com</Link>
             </Typography>
           </Stack>
         </Stack>
