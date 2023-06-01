@@ -29,7 +29,7 @@ const NavBar = () => {
           {accountType !== "Employer" && (
             <>
               <Link href="/jobs" underline="none" className={classes.navlink}>
-                Jobs
+                JobsXXXXXX
               </Link>
               <Link
                 href="/employers"

@@ -23,7 +23,8 @@ const FooterLogo = ({ onClick }) => {
     //   />
     // </svg>
     <div onClick={onClick} >
-      <img src={logo} style={{width: "300px",paddingBottom: "5px"}} />
+      dxvbkjnlkmkm,
+      {/* <img src={logo} style={{width: "300px",paddingBottom: "5px"}} /> */}
     </div>
 
   );
