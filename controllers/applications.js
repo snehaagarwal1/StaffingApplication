@@ -203,7 +203,7 @@ exports.acceptApplications = async (req, res, next) => {
 
     await Application.updateMany(
       { _id: { $in: [...selectionList] } },
-      { status: "Accepted" }
+      { status: "Accepted." }
     );
 
     await Interview.create({
